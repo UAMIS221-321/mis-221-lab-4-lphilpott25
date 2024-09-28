@@ -1,0 +1,15 @@
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.AssemblyInfoInputs.cache
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.AssemblyInfo.cs
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.csproj.CoreCompileInputs.cache
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.sourcelink.json
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\bin\Debug\net8.0\mis-221-lab-4-lphilpott25.exe
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\bin\Debug\net8.0\mis-221-lab-4-lphilpott25.deps.json
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\bin\Debug\net8.0\mis-221-lab-4-lphilpott25.runtimeconfig.json
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\bin\Debug\net8.0\mis-221-lab-4-lphilpott25.dll
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\bin\Debug\net8.0\mis-221-lab-4-lphilpott25.pdb
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.dll
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\refint\mis-221-lab-4-lphilpott25.dll
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.pdb
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\mis-221-lab-4-lphilpott25.genruntimeconfig.cache
+C:\Users\LiamJ\OneDrive\mis221\labs\mis-221-lab-4-lphilpott25\obj\Debug\net8.0\ref\mis-221-lab-4-lphilpott25.dll
